@@ -1,0 +1,1 @@
+This is a number guessing game built in c++ this game generates a random number between 1-100 and gives the user 3 chances to guess the number successfully based on users input it tells the user that the inputted number is less than or greater than the original number and thus helps the user to guess the number correctly.
