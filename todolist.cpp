@@ -1,6 +1,5 @@
 #include<iostream>
 #include<vector>
-#include<ctime>
 #include<string>
 #include<stdio.h>
 #include<map>
